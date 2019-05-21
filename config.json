@@ -1,0 +1,5 @@
+{
+  "db": "cwp-32",
+  "dialect": "sqlite",
+  "storage": "./cwp33"
+}
